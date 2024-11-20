@@ -100,8 +100,11 @@ The Chess Coach Robot's architecture is built on a modular, scalable system, whi
 
 ---
 ## Chess coach robot features : <a name = "Chess coach robot features"></a>
-- **Chess tutorial : AI-driven chatbot for a dynamic chess learning
-- **Chess puzzles: improve problem solving and decision making skilss
+- **Chess tutorial : AI-driven chatbot for a dynamic chess learning 
+- **Chess puzzles: improve problem solving and decision making skills . Learning through playing chess puzzles is an engaging and structured process that helps
+players gradually improve their chess skills and broader cognitive abilities.
+<br/>
+These puzzels have specific goals such as check-mating in a certain number of moves , avoiding check-mate and gaining material.
 ---
 
 
