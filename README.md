@@ -89,6 +89,7 @@ The Chess Coach Robot's architecture is built on a modular, scalable system, whi
   <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/071faf45-8387-4fed-b7e0-3c4a151c977c" alt="462570214_1547938229180262_3988160215688193654_n" style="width: auto; height: 400px;">
 </div>
+---
 ### Architecture Flow:
 1. The player moves a piece on the board, which is sent to the backend server.
 2. The server processes the move and sends the updated game state to the AI models server.
