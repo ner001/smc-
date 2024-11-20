@@ -5,7 +5,7 @@
 
 ## Project logo
 
-<div style="display: flex; justify-content: center; align-items: center; height: 80vh;">
+<div align: center;>
   <img src="https://github.com/user-attachments/assets/6b810edc-efb4-4664-b224-b7e29f5717b1" alt="durhrj" style="width: 200px; height: auto;">
 </div>
 
