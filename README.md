@@ -17,7 +17,7 @@
 ## Project logo
 
 <div align= "center">
-  <img src="https://github.com/user-attachments/assets/cdfc371b-3c8f-4f9a-ad56-a22035a2e8f6" alt="462562734_1130436888709755_1756220042091773229_n" style="width: 300px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/857c292a-b7e7-4c65-8d80-4bf350e58d02" alt="462562734_1130436888709755_1756220042091773229_n" style="width: 300px; height: auto;">
 </div>
 
 
