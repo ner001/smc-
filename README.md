@@ -17,7 +17,7 @@
 ## Project logo
 
 <div align= "center">
-  <img src="https://github.com/user-attachments/assets/28e30f6f-7611-4876-aa7c-267736f75c6d" alt="462562734_1130436888709755_1756220042091773229_n" style="width: 200px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/28e30f6f-7611-4876-aa7c-267736f75c6d" alt="462562734_1130436888709755_1756220042091773229_n" style="width: 300px; height: auto;">
 </div>
 
 
@@ -30,7 +30,7 @@
 - [System Design](#-system-Design-)
 - [AI Models](#-AI-Models-)
 - [Game Interface](#-game-interface-)
-- [Architecture and Infrastructure](#architecture-and-infrastructure-)
+- [Architecture and Infrastructure](#-architecture-and-infrastructure-)
 
 ---
 
