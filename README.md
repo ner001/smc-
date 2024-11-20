@@ -5,7 +5,8 @@
 <br/>
 <br/>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/cdfc371b-3c8f-4f9a-ad56-a22035a2e8f6" alt="462562734_1130436888709755_1756220042091773229_n" style="width: 300px; height: auto;">
+<img src="https://img.shields.io/badge/IEEE-SUP'COM%20Student%20Branch-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+
   <br/>
   
 </div>
@@ -16,7 +17,7 @@
 ## Project logo
 
 <div align= "center">
-  <img src="https://github.com/user-attachments/assets/6b810edc-efb4-4664-b224-b7e29f5717b1" alt="durhrj" style="width: 200px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/cdfc371b-3c8f-4f9a-ad56-a22035a2e8f6" alt="462562734_1130436888709755_1756220042091773229_n" style="width: 300px; height: auto;">
 </div>
 
 
