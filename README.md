@@ -5,8 +5,7 @@
 <br/>
 <br/>
 <div align="center">
-  <img src="![462562734_1130436888709755_1756220042091773229_n](https://github.com/user-attachments/assets/cdfc371b-3c8f-4f9a-ad56-a22035a2e8f6)"
-/>
+<img src="https://github.com/user-attachments/assets/cdfc371b-3c8f-4f9a-ad56-a22035a2e8f6" alt="462562734_1130436888709755_1756220042091773229_n" style="width: 300px; height: auto;">
   <br/>
   
 </div>
