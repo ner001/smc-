@@ -96,8 +96,8 @@ The Chess Coach Robot's architecture is built on a modular, scalable system, whi
 
 ---
 ## Chess coach robot features :
--**Chess tutorial
--**chess puzzles
+- **Chess tutorial
+- **Chess puzzles
 ---
 
 
