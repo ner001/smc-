@@ -104,7 +104,7 @@ The Chess Coach Robot's architecture is built on a modular, scalable system, whi
 ## 🔗 Links and Resources
 
 - **Repository**: [GitHub Repository](link_to_repository)
-- **Demo Video**: [Watch Demo](link_to_video)
+
 
 ---
 ## 🎥 Solution Demo
@@ -121,7 +121,7 @@ The Chess Coach Robot's architecture is built on a modular, scalable system, whi
 
   <i>Click the button above to view the full demonstration</i>
 </div>
----
+
 
 ## 📄 License
 
