@@ -51,7 +51,7 @@ The Chess Coach Robot is designed to operate in real-time, analyzing ongoing gam
 - **User Interface**: A friendly interface for players to interact with, including move suggestions, coaching tips, and progress tracking.
 
 
-  ![Capture d'écran 2024-11-20 184744](https://github.com/user-attachments/assets/2c77afc6-058b-4c17-bff7-cbd228ffbb9d)
+  <img src="https://github.com/user-attachments/assets/2c77afc6-058b-4c17-bff7-cbd228ffbb9d" alt="Capture d'écran 2024-11-20 184744" style="width: 400px; height: auto;">
 
 ---
 
