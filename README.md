@@ -86,8 +86,9 @@ The Chess Coach Robot's architecture is built on a modular, scalable system, whi
 - **Backend**: A server that processes game data, handles player inputs, and interacts with the AI models.
 - **Chess Engine**: The robot integrates with a chess engine to generate moves and evaluate game positions.
 - **AI Models Server**: A dedicated server running the trained AI models to generate move predictions and provide coaching feedback.
-  ![462570214_1547938229180262_3988160215688193654_n](https://github.com/user-attachments/assets/629cf186-f485-4f1d-913a-b1a9b295e329)
-
+  <div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/629cf186-f485-4f1d-913a-b1a9b295e329" alt="462570214_1547938229180262_3988160215688193654_n" style="width: 300px; height: auto;">
+</div>
 ### Architecture Flow:
 1. The player moves a piece on the board, which is sent to the backend server.
 2. The server processes the move and sends the updated game state to the AI models server.
