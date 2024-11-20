@@ -87,7 +87,7 @@ The Chess Coach Robot's architecture is built on a modular, scalable system, whi
 - **Chess Engine**: The robot integrates with a chess engine to generate moves and evaluate game positions.
 - **AI Models Server**: A dedicated server running the trained AI models to generate move predictions and provide coaching feedback.
   <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/071faf45-8387-4fed-b7e0-3c4a151c977c" alt="462570214_1547938229180262_3988160215688193654_n" style="width: auto; height: 400px;">
+  <img src="https://github.com/user-attachments/assets/d5f6fe5b-4125-4f6e-b62c-4b3498595837" alt="462570214_1547938229180262_3988160215688193654_n" style="width: auto; height: 400px;">
 </div>
 ---
 
@@ -100,10 +100,9 @@ The Chess Coach Robot's architecture is built on a modular, scalable system, whi
 
 ---
 ## Chess coach robot features : <a name = "Chess coach robot features"></a>
-- **Chess tutorial : AI-driven chatbot for a dynamic chess learning 
-- **Chess puzzles: improve problem solving and decision making skills . Learning through playing chess puzzles is an engaging and structured process that helps
+- **Chess tutorial** : AI-driven chatbot for a dynamic chess learning 
+- **Chess puzzles**: Learning through playing chess puzzles is an engaging and structured process that helps
 players gradually improve their chess skills and broader cognitive abilities.
-<br/>
 These puzzels have specific goals such as check-mating in a certain number of moves , avoiding check-mate and gaining material.
 ---
 
