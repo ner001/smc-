@@ -4,6 +4,8 @@
 # SUP'GAMBET
 
 ## Project logo
+![durhrj](https://github.com/user-attachments/assets/6b810edc-efb4-4664-b224-b7e29f5717b1)
+
 ![DALL·E 2024-11-20 20 04 38 - A logo for a chess coach robot  The design should combine elements of chess, such as a chessboard, chess pieces like a knight or queen, and a robotic ](https://github.com/user-attachments/assets/520ee4f0-adc3-4409-8352-294fae540d79)
 
 ---
