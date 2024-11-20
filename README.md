@@ -5,7 +5,8 @@
 <br/>
 <br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/IEEE-SUP'COM%20Student%20Branch-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+  <img src="![462562734_1130436888709755_1756220042091773229_n](https://github.com/user-attachments/assets/cdfc371b-3c8f-4f9a-ad56-a22035a2e8f6)"
+/>
   <br/>
   
 </div>
