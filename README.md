@@ -27,10 +27,10 @@
 
 📝 **Table of Contents**
 - [Documentation](#documentation)
-- [System Design](#system-design)
-- [AI Models](#ai-models)
-- [Game Interface](#game-interface)
-- [Architecture and Infrastructure](#architecture-and-infrastructure)
+- [System Design](#-system-Design-)
+- [AI Models](#-AI-Models-)
+- [Game Interface](#-game-interface-)
+- [Architecture and Infrastructure](#-architecture-and-infrastructure-)
 
 ---
 
