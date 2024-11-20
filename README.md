@@ -6,7 +6,8 @@
 ## Project logo
 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/6b810edc-efb4-4664-b224-b7e29f5717b1" alt="durhrj" style="width: 200px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/6b810edc-efb4-4664-b224-b7e29f5717b1" alt="durhrj" style="width: 200px; height: auto;"
+   <p> uygdstdcusgdvc</p>
 </div>
 
 ---
