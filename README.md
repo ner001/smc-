@@ -4,8 +4,7 @@
 # Chess Coach Robot
 
 ## Project logo
-![Chess Coach Logo](
-![DALL·E 2024-11-20 20 04 38 - A logo for a chess coach robot  The design should combine elements of chess, such as a chessboard, chess pieces like a knight or queen, and a robotic ](https://github.com/user-attachments/assets/520ee4f0-adc3-4409-8352-294fae540d79))
+![DALL·E 2024-11-20 20 04 38 - A logo for a chess coach robot  The design should combine elements of chess, such as a chessboard, chess pieces like a knight or queen, and a robotic ](https://github.com/user-attachments/assets/520ee4f0-adc3-4409-8352-294fae540d79)
 
 ---
 
