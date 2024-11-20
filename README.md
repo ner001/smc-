@@ -122,6 +122,7 @@ These puzzels have specific goals such as check-mating in a certain number of mo
 <div align="center">
   
    [<img src="https://img.shields.io/badge/Watch%20Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>](https://drive.google.com/drive/folders/1zmqwx9dBeI5y70cL6vh-oSn7sQvfUN8z?fbclid=IwY2xjawGrQ9ZleHRuA2FlbQIxMAABHbkFiX1TmhQ9TrNX3wGc21LhJ39sAgIUbbC-evb8BcZxLqZxQUijK7kBZg_aem_OwUX2wH88aHbjLkP9w18TA)
+  <br/>
   Watch our complete solution demonstration showcasing:
   - 🛡️ Real-time threat detection
   - 🤖 AI-driven analysis
