@@ -1,8 +1,8 @@
 # smc-
 <img width="1200" alt="tsyp" src="https://github.com/user-attachments/assets/6a8f199e-bfc6-4fcb-8b61-b378b0fd2d62">
-
-
-
+<br/>
+<br/>
+<br/>
 <div align="center">
   <img src="https://img.shields.io/badge/IEEE-SUP'COM%20Student%20Branch-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
   <br/>
