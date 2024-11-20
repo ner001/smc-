@@ -5,11 +5,10 @@
 
 ## Project logo
 
-<div style="text-align: center;">
-  <img  style="text-align: center;" src="https://github.com/user-attachments/assets/6b810edc-efb4-4664-b224-b7e29f5717b1" alt="durhrj" style="width: 200px; height: auto;"
-
-  
+<div style="display: flex; justify-content: center; align-items: center; height: 80vh;">
+  <img src="https://github.com/user-attachments/assets/6b810edc-efb4-4664-b224-b7e29f5717b1" alt="durhrj" style="width: 200px; height: auto;">
 </div>
+
 
 ---
 
