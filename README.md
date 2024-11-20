@@ -30,7 +30,7 @@
 - [System Design](#-system-Design-)
 - [AI Models](#-AI-Models-)
 - [Game Interface](#-game-interface-)
-- [Architecture and Infrastructure](#-architecture-and-infrastructure-)
+- [Architecture and Infrastructure](#-Architecture-and-Infrastructure-)
 
 ---
 
