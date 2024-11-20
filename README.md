@@ -26,7 +26,7 @@
 **Chess Coach Robot** is an AI-powered chess assistant designed to help players improve their chess skills. By analyzing gameplay, suggesting optimal moves, and offering tailored feedback, it serves as both a coach and a companion for chess enthusiasts of all levels. Using machine learning algorithms and advanced game theory, the robot learns from players' strategies and provides real-time coaching to enhance their performance.
 
 📝 **Table of Contents**
-- [](#)
+
 - [Documentation](#documentation)
 - [System Design](#-system-Design-)
 - [AI Models](#-AI-Models-)
@@ -41,7 +41,7 @@ In this section, we provide an in-depth look at the technical aspects of the Che
 
 Additionally, you’ll find a detailed breakdown of the methodology behind training the AI models, evaluating their performance, and optimizing them to provide accurate and valuable coaching. 
 
-Link to Research Paper: [Research_Paper](link_to_research_paper)
+
 
 ---
 
@@ -121,7 +121,7 @@ These puzzels have specific goals such as check-mating in a certain number of mo
 
 <div align="center">
   
-  [<img src="https://img.shields.io/badge/Watch%20Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>](https://drive.google.com/file/d/1s3CbdC4jHIV3iscPmfKrhXlDuSWvrbYg/view)
+  [<img src="https://drive.google.com/drive/folders/1zmqwx9dBeI5y70cL6vh-oSn7sQvfUN8z?fbclid=IwY2xjawGrQ9ZleHRuA2FlbQIxMAABHbkFiX1TmhQ9TrNX3wGc21LhJ39sAgIUbbC-evb8BcZxLqZxQUijK7kBZg_aem_OwUX2wH88aHbjLkP9w18TA"/>](https://drive.google.com/file/d/1s3CbdC4jHIV3iscPmfKrhXlDuSWvrbYg/view)
 
   Watch our complete solution demonstration showcasing:
   - 🛡️ Real-time threat detection
