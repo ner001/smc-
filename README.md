@@ -111,10 +111,6 @@ These puzzels have specific goals such as check-mating in a certain number of mo
 ---
 
 
-## 🔗 Links and Resources <a name = "Links and Resources"></a>
-
-- **Repository**: [GitHub Repository](link_to_repository)
-
 
 ---
 ## 🎥 Solution Demo
