@@ -1,4 +1,6 @@
 # smc-
+<img width="574" alt="tsyp" src="https://github.com/user-attachments/assets/6a8f199e-bfc6-4fcb-8b61-b378b0fd2d62">
+
 # Chess Coach Robot
 
 ## Project logo
