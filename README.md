@@ -133,6 +133,6 @@ These puzzels have specific goals such as check-mating in a certain number of mo
 </div>
 
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+
