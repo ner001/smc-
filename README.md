@@ -44,7 +44,7 @@ Link to Research Paper: [Research_Paper](link_to_research_paper)
 
 ---
 
-## 💻 System Design
+## 💻 System Design <a name = "System Design"></a>
 
 The Chess Coach Robot is designed to operate in real-time, analyzing ongoing games and providing suggestions and feedback during the game. The system consists of:
 - **AI Models**: Reinforcement Learning for move prediction and optimization, Deep Neural Networks for game analysis.
@@ -57,7 +57,7 @@ The Chess Coach Robot is designed to operate in real-time, analyzing ongoing gam
 
 ---
 
-## 🤖 AI Models
+## 🤖 AI Models <a name = "AI Models"></a>
 
 The Chess Coach Robot uses several AI models to assist players:
 - **Optimal move determining algorithm**: Trained to predict optimal moves based on previous games and the current board state.
@@ -69,7 +69,7 @@ These models are continually updated and refined based on player feedback and ga
 
 ---
 
-## 🎮 Game Interface
+## 🎮 Game Interface <a name = "Game Interface"></a>
 
 The Chess Coach Robot interacts with a graphical chess board, offering real-time move suggestions, evaluations, and coaching feedback. Key features include:
 - **Move Suggestions**: The robot provides the best possible moves in any given position.
@@ -78,7 +78,7 @@ The Chess Coach Robot interacts with a graphical chess board, offering real-time
 
 ---
 
-## 🏗️ Architecture and Infrastructure
+## 🏗️ Architecture and Infrastructure <a name = "Architecture and Infrastructure"></a>
 
 The Chess Coach Robot's architecture is built on a modular, scalable system, which includes the following components:
 
@@ -91,7 +91,7 @@ The Chess Coach Robot's architecture is built on a modular, scalable system, whi
 </div>
 ---
 
-### Architecture Flow:
+### Architecture Flow: <a name = "Architecture Flow"></a>
 1. The player moves a piece on the board, which is sent to the backend server.
 2. The server processes the move and sends the updated game state to the AI models server.
 3. The AI models server evaluates the board and generates suggestions for the next move.
@@ -99,13 +99,13 @@ The Chess Coach Robot's architecture is built on a modular, scalable system, whi
 5. The system continues to provide coaching and analysis throughout the game.
 
 ---
-## Chess coach robot features :
+## Chess coach robot features : <a name = "Chess coach robot features"></a>
 - **Chess tutorial : AI-driven chatbot for a dynamic chess learning
 - **Chess puzzles: improve problem solving and decision making skilss
 ---
 
 
-## 🔗 Links and Resources
+## 🔗 Links and Resources <a name = "Links and Resources"></a>
 
 - **Repository**: [GitHub Repository](link_to_repository)
 
