@@ -60,9 +60,10 @@ The Chess Coach Robot is designed to operate in real-time, analyzing ongoing gam
 ## 🤖 AI Models
 
 The Chess Coach Robot uses several AI models to assist players:
-- **Reinforcement Learning**: Trained to predict optimal moves based on previous games and the current board state.
-- **Deep Neural Networks (DNNs)**: For analyzing the game from a strategic perspective and providing tips for improvement.
-- **Move Evaluation Model**: A model trained using historical game data to assess the quality of moves and suggest better alternatives in real-time.
+- **Optimal move determining algorithm**: Trained to predict optimal moves based on previous games and the current board state.
+- **Game state tracking model**: For detecting the position of the board and the pieces through the phone's camera .
+- **Endgame state prediction model**: A model trained to determine the winner/draw of thes chess game given the moves of both players.
+- **Chatbot Tutorial Assistant**:A RAG-powered chatbot tutorial that provides interactive guidance, real-time feedback, and error detection to help users build and refine chatbots efficiently.
 
 These models are continually updated and refined based on player feedback and gameplay data to ensure accuracy and effectiveness.
 
