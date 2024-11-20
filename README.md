@@ -107,6 +107,21 @@ The Chess Coach Robot's architecture is built on a modular, scalable system, whi
 - **Demo Video**: [Watch Demo](link_to_video)
 
 ---
+## 🎥 Solution Demo
+
+<div align="center">
+  
+  [<img src="https://img.shields.io/badge/Watch%20Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>](https://drive.google.com/file/d/1s3CbdC4jHIV3iscPmfKrhXlDuSWvrbYg/view)
+
+  Watch our complete solution demonstration showcasing:
+  - 🛡️ Real-time threat detection
+  - 🤖 AI-driven analysis
+  - 🔄 Automated response system
+  - 📊 Live dashboard monitoring
+
+  <i>Click the button above to view the full demonstration</i>
+</div>
+---
 
 ## 📄 License
 
